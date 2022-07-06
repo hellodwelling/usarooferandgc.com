@@ -32,13 +32,6 @@
     </url>
 
     <url>
-        <loc>https://usarooferandgc.com/gallery-Remodeling</loc>
-        <lastmod>2022-07-06</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
         <loc>https://usarooferandgc.com/gallery-Roofing</loc>
         <lastmod>2022-07-06</lastmod>
         <changefreq>weekly</changefreq>
@@ -46,7 +39,7 @@
     </url>
 
     <url>
-        <loc>https://usarooferandgc.com/service-Roofing-Installation</loc>
+        <loc>https://usarooferandgc.com/gallery-Remodeling</loc>
         <lastmod>2022-07-06</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -54,6 +47,13 @@
 
     <url>
         <loc>https://usarooferandgc.com/service-Roofing-Repairs-and-Maintenance</loc>
+        <lastmod>2022-07-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://usarooferandgc.com/service-Roofing-Installation</loc>
         <lastmod>2022-07-06</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
